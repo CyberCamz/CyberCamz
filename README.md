@@ -1,56 +1,41 @@
-<h1>Hi, I'm CyberCamz! <br/><a href="https://github.com/cybercamz">Student</a>, <a href="https://www.linkedin.com/in/cybercamz/">Bachelor in Cybersecurity</a>
+# Welcome to My GitHub Profile!
 
-<h2>🔭 I’m currently in my 1st year studies</h2>
-<h3> ⬇️ Course Modules Completed:</h3>
-  - [Basic Science]
-  - [Business Management Information]
-  - [Database Fundamentals
-  - [Design Thinking]
-  - [Introduction to Computing]
-  - [Mathematics for Computing and Informatics 1A]
-  - [Principles of English Language Use (exempted)]
-- <b>Certifications
-  - Google Cybersecurity 
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## About Me
+Hello! I'm [Your Name], a first-year student pursuing a Bachelor's degree in Cyber Security at NUST University. In my spare time, I am also working on various certifications to enhance my skills and knowledge in the field of cyber security.
 
-<h2>📺 Certification studying..
+## Education
+- **Bachelor's Degree in Cyber Security** (2023 - Present)
+  - NUST University, Windhoek, Namibia
 
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/google-certificates/cybersecurity-certificate)
+## Certifications
+- [Certification Name 1] - [Issuing Organization]
+- [Certification Name 2] - [Issuing Organization]
+- [Certification Name 3] - [Issuing Organization]
 
-<h2> 🤳 Connect with me:</h2>
+## Skills
+- **Programming Languages:** Python, Java, C++
+- **Cyber Security Tools:** Wireshark, Metasploit, Nmap
+- **Operating Systems:** Linux, Windows
+- **Other Skills:** Network Security, Ethical Hacking, Penetration Testing
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Projects
+### [Project Title 1]
+- **Description:** Brief description of the project.
+- **Technologies Used:** List of technologies used.
+- **Link:** [GitHub Repository Link]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com//
-[linkedin]: https://linkedin.com/in/
+### [Project Title 2]
+- **Description:** Brief description of the project.
+- **Technologies Used:** List of technologies used.
+- **Link:** [GitHub Repository Link]
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact Me
+- **Email:** [Your Email Address]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Twitter:** [Your Twitter Handle]
 
-Here are some ideas to get you started:
+Feel free to explore my repositories and connect with me on social media. I'm always open to collaborating on exciting projects and learning new things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thank you for visiting my GitHub profile!
