@@ -2,11 +2,8 @@
 
 ## About Me
 Hello! I'm CyberCamz, a first-year student pursuing a Bachelor's degree in Cyber Security at NUST University. In my spare time, I am also working on various certifications to enhance my skills and knowledge in the field of cyber security.
-'''
-$ This is a code
-Test run 1
-Test run 2
-'''
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 ## Education
 - **Bachelor's Degree in Cyber Security** (2024 - ongoing)
