@@ -1,16 +1,16 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello! I'm [Your Name], a first-year student pursuing a Bachelor's degree in Cyber Security at NUST University. In my spare time, I am also working on various certifications to enhance my skills and knowledge in the field of cyber security.
+Hello! I'm CyberCamz, a first-year student pursuing a Bachelor's degree in Cyber Security at NUST University. In my spare time, I am also working on various certifications to enhance my skills and knowledge in the field of cyber security.
 
 ## Education
-- **Bachelor's Degree in Cyber Security** (2023 - Present)
+- **Bachelor's Degree in Cyber Security** (2024 - ongoing)
   - NUST University, Windhoek, Namibia
 
-## Certifications
-- [Certification Name 1] - [Issuing Organization]
-- [Certification Name 2] - [Issuing Organization]
-- [Certification Name 3] - [Issuing Organization]
+## Certifications studying..
+- [Google Cybersecurity Professional Certificate] - [Coursera]
+- [Introduction to Cybersecurity] - [Cisco Networking Academy]
+- [CC - Certified in Cybersecurity] - [ISC2]
 
 ## Skills
 - **Programming Languages:** Python, Java, C++
