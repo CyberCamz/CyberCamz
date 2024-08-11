@@ -19,23 +19,23 @@ Hello! I'm CyberCamz, a first-year student pursuing a Bachelor's degree in Cyber
 - **Other Skills:** Network Security, Ethical Hacking, Penetration Testing
 
 ## Projects
-### [Project Title 1]
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository Link]
+### Active Directory Homelab]
+- **Description:** Set up and configured an Active Directory (AD) environment to manage users, groups, and computers within a network. Implemented Group Policies to enforce security settings and automated administrative tasks.
+- **Technologies Used:** Windows Server, Active Directory, Group Policy Management, PowerShell.
+- **Link:** [N/A]
 
-### [Project Title 2]
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository Link]
+### [Linux Server Homelab]
+- **Description:** Deployed and managed a Linux server to provide various network services such as DNS, DHCP, and web hosting. Configured user permissions, implemented security measures, and automated tasks using shell scripting.
+- **Technologies Used:** Ubuntu Server, BIND9 (DNS), ISC DHCP Server, Apache, Bash Scripting.
+- **Link:** [N/A]
 
-## Contact Me
+<!-- ## Contact Me
 - **Email:** [Your Email Address]
 - **LinkedIn:** [Your LinkedIn Profile]
 - **Twitter:** [Your Twitter Handle]
 
 Feel free to explore my repositories and connect with me on social media. I'm always open to collaborating on exciting projects and learning new things!
 
----
+--- -->
 
 Thank you for visiting my GitHub profile!
