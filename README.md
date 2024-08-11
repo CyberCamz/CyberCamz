@@ -1,8 +1,14 @@
 <h1>Hi, I'm CyberCamz! <br/><a href="https://github.com/cybercamz">Student</a>, <a href="https://www.linkedin.com/in/cybercamz/">Bachelor in Cybersecurity</a>
 
-<h2>🔭 I’m currently working on:</h2>
-
-  - [Active Directory Home Lab]
+<h2>🔭 I’m currently in my 1st year studies</h2>
+<h3> ⬇️ Course Modules Completed:</h3>
+  - [Basic Science]
+  - [Business Management Information]
+  - [Database Fundamentals
+  - [Design Thinking]
+  - [Introduction to Computing]
+  - [Mathematics for Computing and Informatics 1A]
+  - [Principles of English Language Use [(exempted)]]
 - <b>Certifications
   - Google Cybersecurity 
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
