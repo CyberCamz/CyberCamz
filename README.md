@@ -15,9 +15,9 @@ Hello! I'm CyberCamz, a first-year student pursuing a Bachelor's degree in Cyber
   - NUST University, Windhoek, Namibia
 
 ## Certifications studying..
-- [ ] [Google Cybersecurity Professional Certificate] - [Coursera]
-- [ ] [Introduction to Cybersecurity] - [Cisco Networking Academy]
-- [ ] [CC - Certified in Cybersecurity] - [ISC2]
+- [ ] Google Cybersecurity Professional Certificate - Coursera
+- [ ] Introduction to Cybersecurity - Cisco Networking Academy
+- [ ] CC - Certified in Cybersecurity - ISC2
 
 ## Skills
 - **Programming Languages:** Python, Java, C++
