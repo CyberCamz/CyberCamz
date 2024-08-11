@@ -16,8 +16,8 @@ Hello! I'm CyberCamz, a first-year student pursuing a Bachelor's degree in Cyber
 
 ## Certifications studying..
 - [ ] Google Cybersecurity Professional Certificate - <b> Coursera
-- [ ] Introduction to Cybersecurity - <b> Cisco Networking Academy
-- [ ] CC - Certified in Cybersecurity - <b> ISC2
+- [ ] Introduction to Cybersecurity - Cisco Networking Academy
+- [ ] CC - Certified in Cybersecurity - ISC2
 
 ## Skills
 - **Programming Languages:** Python, Java, C++
