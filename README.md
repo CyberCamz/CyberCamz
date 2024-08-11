@@ -19,12 +19,12 @@ Hello! I'm CyberCamz, a first-year student pursuing a Bachelor's degree in Cyber
 - **Other Skills:** Network Security, Ethical Hacking, Penetration Testing
 
 ## Projects
-### Active Directory Homelab]
+### Active Directory Homelab
 - **Description:** Set up and configured an Active Directory (AD) environment to manage users, groups, and computers within a network. Implemented Group Policies to enforce security settings and automated administrative tasks.
 - **Technologies Used:** Windows Server, Active Directory, Group Policy Management, PowerShell.
 - **Link:** [N/A]
 
-### [Linux Server Homelab]
+### Linux Server Homelab
 - **Description:** Deployed and managed a Linux server to provide various network services such as DNS, DHCP, and web hosting. Configured user permissions, implemented security measures, and automated tasks using shell scripting.
 - **Technologies Used:** Ubuntu Server, BIND9 (DNS), ISC DHCP Server, Apache, Bash Scripting.
 - **Link:** [N/A]
