@@ -1,4 +1,4 @@
-<h1>Hi, I'm CyberCamz! <br/><a href="https://github.com/cybercamz">Student</a>, <a href="https://www.linkedin.com/in/cybercamz/">B.com for Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/cybercambiz">YouTuber</a></h1>
+<h1>Hi, I'm CyberCamz! <br/><a href="https://github.com/cybercamz">Student</a>, <a href="https://www.linkedin.com/in/cybercamz/">Bachelor in Cybersecurity</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
