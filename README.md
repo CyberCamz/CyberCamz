@@ -8,7 +8,7 @@
   - [Design Thinking]
   - [Introduction to Computing]
   - [Mathematics for Computing and Informatics 1A]
-  - [Principles of English Language Use [(exempted)]]
+  - [Principles of English Language Use (exempted)]
 - <b>Certifications
   - Google Cybersecurity 
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
