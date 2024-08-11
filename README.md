@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/cybercamz">Programmer</a>, <a href="https://www.linkedin.com/in/cybercamz/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/cybercambiz">YouTuber</a></h1>
+<h1>Hi, I'm CyberCamz! <br/><a href="https://github.com/cybercamz">Student</a>, <a href="https://www.linkedin.com/in/cybercamz/">B.com for Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/cybercambiz">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
