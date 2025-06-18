@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm CyberCamz, pursuing a Bachelor of Computer Science in Cyber Security at NUST University in Namibia. Through this GitHub repository, I’ll be sharing my journey, insights, and projects as I explore the dynamic field of cyber security. Alongside my studies, I’m actively working on certifications to expand my expertise and refine my skill set.
+I'm CyberCamz, a Bachelor of Computer Science in Cyber Security student at NUST University in Namibia. Through this GitHub repository, I’ll be sharing my journey, insights, and projects as I explore the dynamic field of cyber security. Alongside my studies, I’m actively pursuing certifications to expand my expertise and refine my skill set.
 - [x] Semester 1 <br>
 Principles of English Language,
 Basic Science,
