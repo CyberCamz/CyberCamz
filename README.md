@@ -10,13 +10,13 @@ Database Fundamentals,
 Design Thinking, 
 Introduction to Computing,
 Mathematics for Computing and Informatics 1A
-- [x] Semester 2
+- [x] Semester 2 <br>
 English in Practice, 
 Computer Organisation and Architecture Mathematics for Computing and Informatics 1B,
 Data Structures and Algorithm 1,
 Programming 1 (Java Language),
 Systems Administration
-- [ ] Semester 3
+- [ ] Semester 3 <br>
 English for Academic Purposes,
 Applied Statistics and Probability,
 Data Networks,
