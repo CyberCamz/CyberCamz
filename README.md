@@ -3,6 +3,13 @@
 ## About Me
 Hello! I'm CyberCamz, a first-year student pursuing a Bachelor's degree in Cyber Security at NUST University. In my spare time, I am also working on various certifications to enhance my skills and knowledge in the field of cyber security.
 - [x] Semester 1
+  -[x] Principles of English Language
+  -[x] Basic Science
+  -[x] Business Management Information Systems Database Fundamentals 
+  -[x] Design Thinking 
+  -[x] Introduction to Computing
+  -[x] Mathematics for Computing and Informatics 1A
+
 - [x] Semester 2
 - [ ] Semester 3
 - [ ] Semester 4
