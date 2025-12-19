@@ -32,6 +32,12 @@ Ethics for Computing,
 Innovation, Creativity and Entrepreneurship,
 Web Application Security
 - [ ] Semester 5
+Advanced Network Security, 
+Human Computer Interaction Security,
+Intrusion Analysis and Response,
+Information Systems Security Essentials,
+Mobile Forensics,
+Operating Systems Security
 - [ ] Semester 6
 
 
