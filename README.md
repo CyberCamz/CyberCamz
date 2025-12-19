@@ -39,7 +39,9 @@ Information Systems Security Essentials,
 Mobile Forensics,
 Operating Systems Security
 - [ ] Semester 6
-
+Work Integrated Learning,
+Project Management,
+Sustainability and Development
 
 ## Education
 - **Bachelor's Degree in Cyber Security** (2024 - ongoing)
