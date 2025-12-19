@@ -24,7 +24,13 @@ Data Networks,
 Information Systems Security Essentials,
 Operating Systems,
 Programming 2 (OOP Concepts)
-- [ ] Semester 4
+- [x] Semester 4
+Communication Networks
+Cryptography Fundamentals
+Digital Forensics
+Ethics for Computing
+Innovation, Creativity and Entrepreneurship
+Web Application Security
 - [ ] Semester 5
 - [ ] Semester 6
 
