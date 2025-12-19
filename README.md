@@ -25,11 +25,11 @@ Information Systems Security Essentials,
 Operating Systems,
 Programming 2 (OOP Concepts)
 - [x] Semester 4
-Communication Networks
-Cryptography Fundamentals
-Digital Forensics
-Ethics for Computing
-Innovation, Creativity and Entrepreneurship
+Communication Networks,
+Cryptography Fundamentals,
+Digital Forensics,
+Ethics for Computing,
+Innovation, Creativity and Entrepreneurship,
 Web Application Security
 - [ ] Semester 5
 - [ ] Semester 6
