@@ -9,39 +9,39 @@ Business Management Information Systems,
 Database Fundamentals, 
 Design Thinking, 
 Introduction to Computing,
-Mathematics for Computing and Informatics 1A
+Mathematics for Computing and Informatics 1A.
 - [x] Semester 2 <br>
 English in Practice, 
 Computer Organisation and Architecture,
 Mathematics for Computing and Informatics 1B,
 Data Structures and Algorithm 1,
 Programming 1 (Java Language),
-Systems Administration
+Systems Administration.
 - [x] Semester 3 <br>
 English for Academic Purposes,
 Applied Statistics and Probability,
 Data Networks,
 Information Systems Security Essentials,
 Operating Systems,
-Programming 2 (OOP Concepts)
+Programming 2 (OOP Concepts).
 - [x] Semester 4
 Communication Networks,
 Cryptography Fundamentals,
 Digital Forensics,
 Ethics for Computing,
 Innovation, Creativity and Entrepreneurship,
-Web Application Security
+Web Application Security.
 - [ ] Semester 5
 Advanced Network Security, 
 Human Computer Interaction Security,
 Intrusion Analysis and Response,
 Information Systems Security Essentials,
 Mobile Forensics,
-Operating Systems Security
+Operating Systems Security.
 - [ ] Semester 6
 Work Integrated Learning,
 Project Management,
-Sustainability and Development
+Sustainability and Development.
 
 ## Education
 - **Bachelor's Degree in Cyber Security** (2024 - ongoing)
