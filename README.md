@@ -31,7 +31,7 @@ Digital Forensics,
 Ethics for Computing,
 Innovation, Creativity and Entrepreneurship,
 Web Application Security.
-- [ ] Semester 5
+- [x] Semester 5
 Advanced Network Security, 
 Human Computer Interaction Security,
 Intrusion Analysis and Response,
